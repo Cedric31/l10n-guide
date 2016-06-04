@@ -150,6 +150,13 @@ Pootle should provide during editing, see
      -
      - Yes
      -
+   * - oc
+     - Occitan
+     - Arial
+     -
+     -
+     - Yes
+     -
 
 .. _../pages/l10n/displaysettings#external_links:
 
