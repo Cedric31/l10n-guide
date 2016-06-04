@@ -74,6 +74,8 @@ on the English name.
      - IsiNdebele
    * - Northern Sotho
      - Sesotho sa Leboa *or* Sepedi
+   * - Occitan
+     - Occitan
    * - Papiamento
      - Papiamentu
    * - Persian
